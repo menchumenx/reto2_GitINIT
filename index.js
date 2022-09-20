@@ -1,10 +1,4 @@
-
-function suma(num1, num2) {
-    let res;
-    let suma = num1+num2;
-    res = suma
-    return res;
-}
+//función suma borrada
 
 function resta(num1, num2) {
     let res;
