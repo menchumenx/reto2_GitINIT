@@ -36,5 +36,5 @@
         -> para carperas /nombre de carpeta
         -> para extendsiones *.js
         -> nombre.js
-        
+         
 
