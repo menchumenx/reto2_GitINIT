@@ -1,4 +1,15 @@
+<<<<<<< HEAD
 //función suma borrada
+=======
+
+// modificación funcion suma - tres parámetros
+function suma(num1, num2, num3) {
+    let res;
+    let suma = num1+num2+num3;
+    res = suma
+    return res;
+}
+>>>>>>> rama2
 
 function resta(num1, num2) {
     let res;
