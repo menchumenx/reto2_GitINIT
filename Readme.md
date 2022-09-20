@@ -25,3 +25,16 @@
         git push -u origin main
     
 
+    **COMANDOS GIT**
+    Hemos usado diferentes comandos para revertir acciones con git.
+    
+    git reset --mixed -> saca los cambios subidos en el stage
+    git reset --soft HEAD~1 -> para revertir un commit y guardar los cambios añadidos al commit
+
+    **.gitIgnore**
+    Nos permite excluir archivos, carpetas y extensiones de la subida al repositorio
+        -> para carperas /nombre de carpeta
+        -> para extendsiones *.js
+        -> nombre.js
+        
+
